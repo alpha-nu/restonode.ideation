@@ -22,4 +22,7 @@ The Restaurant Email Notification and Customer SMS Notification services are sub
 Is a REST-ful API written on top of NodeJS/ExpressJS in ```TypeScript```. Refer to API documentation [here](rest_api_design.md)
 
 ## Relational DataStore
-Is a MySQL database used to store the relational schema of the domain model. Storing Restaurants, Meals, Ratings, Customers and Orders.
+Is a ```MySQL``` database used to store the relational schema of the domain model. Storing Restaurants, Meals, Ratings, Customers and Orders.
+
+## Frontend SPA
+A React/Redux single page application written in ```TypeScript```
