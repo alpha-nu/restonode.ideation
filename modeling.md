@@ -1,4 +1,4 @@
-# Restonode ideation session
+# Modeling
 
 ## Open Question
 There are no clear requirements about use authentication/authorization. Therefore, based on the initial understanding of the requirements, it will be assumed that there is an identity provider that manages user logins.
