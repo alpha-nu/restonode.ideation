@@ -6,4 +6,6 @@ This repository contains the documentation artifacts the resulted from a fictiti
 
 [API Modeling](rest_api_design.md) contains domain representations and how they map to a REST API endpoints
 
-[High Level Architecture](architecture.md) a simple schematic of the system architecture
+[High Level Architecture](architecture.md) a schematic and description of the system architecture
+
+[Database Relational Model](database.md) a relational model of domain entities and how they correspond to database tables 
