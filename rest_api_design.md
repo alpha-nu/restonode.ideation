@@ -24,10 +24,6 @@ POST /v1/order-management/orders
 ```
 GET /v1/order-management/restaurants/{id}/meals
 ```
-### view meal details
-```
-GET /v1/order-management/restaurants/{id}/meals/{id}
-```
 ### create restaurant
 ```
 POST /v1/order-management/restaurants
